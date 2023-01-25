@@ -3,12 +3,12 @@
 Roll custom dices  
 Compute sum or mean from dice rolls  
 
-## Compiler
+## Compile
 ```
 g++ main.cpp dice.cpp dice.h -o rollDice
 ```
 
-## Executer
+## Run
 ```
 ./rollDice
 ```
